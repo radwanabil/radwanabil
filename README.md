@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#🌱  I graduated from faculty of engineering ALexandria university computer and communication department
+# 🌱  I graduated from faculty of engineering ALexandria university computer and communication department
 class 2022
-#⚡I’m currently learning at ITI open source track, learning new technologies
+# ⚡I’m currently learning at ITI open source track, learning new technologies
