@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌱  I graduated from faculty of engineering ALexandria university computer and communication department
-##       class 2022
-## ⚡I’m currently learning at ITI open source track, learning new technologies
-## 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from reading, drawing, gardening to swimming
+ 🌱  I graduated from faculty of engineering ALexandria university computer and communication department
+     class 2022
+⚡I’m currently learning at ITI open source track, learning new technologies
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from reading, drawing, gardening to swimming
 
