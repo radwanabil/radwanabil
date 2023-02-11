@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
  🌱  I graduated from faculty of engineering ALexandria university computer and communication department<br>
      class 2022<br>
-⚡I’m currently learning at ITI open source track, learning new technologies<br>
+⚡I’m currently learning at ITI open source track, learning new technologies<br> 
+⚡Here is my code pen for small projects https://codepen.io/radwanabil
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from reading, drawing, gardening to swimming
 
