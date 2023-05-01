@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 🌱 I graduated from the faculty of engineering Alexandria university computer and communication department  class of 2022<br>
 ⚡ I’m currently studying at ITI open source track, learning new technologies<br> 
-⚡ Check my [Portofolio](https://radwa-nabil.web.app/#portfolio)<br>
+⚡ Check my [Portofolio](https://radwa-nabil.web.app/)<br>
 🎸 Outside the tech world, I enjoy pushing myself to develop new skills. My hobbies range from reading, drawing, and gardening to swimming
 
