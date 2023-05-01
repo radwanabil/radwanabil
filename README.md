@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I graduated from the faculty of engineering Alexandria university computer and communication department  class of 2022<br>
-⚡ I’m currently studying at ITI open source track, learning new technologies<br> 
-⚡ Check my [Portofolio](https://radwa-nabil.web.app/)<br>
-🎸 Outside the tech world, I enjoy pushing myself to develop new skills. My hobbies range from reading, drawing, and gardening to swimming
+
+🌱 I am a recent graduate from the Computer and Communication Department at Alexandria University. Currently, I am expanding my knowledge by studying at ITI Open Source Track, where I am learning about new technologies and their applications.<br>
+
+⚡ Besides my passion for technology, I enjoy pushing myself to develop new skills outside of the tech world. In my free time, I like to read, draw, and even indulge in some gardening. I am also an avid swimmer and enjoy staying active.<br>
+
+🔭 Please take a look at [my portfolio](https://radwa-nabil.web.app/) to see some of the exciting projects I have worked on. Thank you for visiting!
 
